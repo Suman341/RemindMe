@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Remind Me</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account_yet_create_one">Do not have account? create one.</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="setting">Setting</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="title">Title</string>
+    <string name="history">History</string>
+    <string name="description">Description</string>
+    <string name="no_reminders">No reminders available</string>
+
+
+    <string name="add_reminder">Reminder</string>
+    <string name="details">Details</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition Interval </string>
+    <string name="repeat_type">Type of Repetitions</string>
+
+    <string name="title_activity_add_reminder">Add Reminder</string>
+    <string name="title_activity_edit_reminder">Edit Reminder</string>
+
+    <string name="action_discard_reminder">Discard Reminder</string>
+    <string name="action_save_reminder">Save Reminder</string>
+    <string name="no_reminder_message">Reminders are not available</string>
+    <string name="about_app">Life Reminders is one of the simple reminder apps. It lets you create tasks with a deadline. The app simply reminds you when it\'s time to do it.</string>
+    <string name="developed_by">Developed By Suman Shrestha</string>
+</resources>
